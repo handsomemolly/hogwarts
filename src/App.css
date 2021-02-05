@@ -72,6 +72,14 @@ ul {
   margin: auto;
 }
 
+.hidden {
+  display: none;
+}
+
+.button-row {
+  height: 50px;
+}
+
 
 .pigTile {
   display: inline;
